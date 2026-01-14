@@ -46,7 +46,7 @@ String surfaceId = userSurfaceMap.get(username);
 *   **LLM-Friendly**: The flat component structure is optimized for AI generation, making it easy for different LLMs to reason about and modify the UI.
 
 ![Expanded Fraud Alert](tranaction2.jpg)
-*Figure 2: The same UI surface updated to reveal a high-risk fraud network.*
+*Figure 2: The same UI surface updated to reveal a high-risk fraud network.* 
 
 ## Future Directions
 
