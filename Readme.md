@@ -6,7 +6,7 @@ Traditional fraud detection systems rely on static dashboards and pre-computed d
 
 Unlike standard knowledge graphs that are pre-built and indexed, an Agentic Knowledge Graph is dynamically constructed by AI agents in real-time. The agent doesn't just fetch data; it reasons about the context of the query and builds a living visualization tailored to the specific investigation. This moves us from "searching a database" to "collaborating with an AI investigator."
 
-![Initial Transaction Network]()
+![Initial Transaction Network](transaction.jpg)
 *Figure 1: A dynamically generated transaction network for a specific user.*
 
 ## Technical Architecture Breakdown
@@ -45,7 +45,7 @@ String surfaceId = userSurfaceMap.get(username);
 *   **Cross-Platform Potential**: The same backend logic can serve web, mobile, and desktop clients without modification.
 *   **LLM-Friendly**: The flat component structure is optimized for AI generation, making it easy for different LLMs to reason about and modify the UI.
 
-![Expanded Fraud Alert]()
+![Expanded Fraud Alert](tranaction2.jpg)
 *Figure 2: The same UI surface updated to reveal a high-risk fraud network.*
 
 ## Future Directions
